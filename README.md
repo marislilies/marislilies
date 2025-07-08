@@ -27,5 +27,5 @@
 
 
 
-${\textsf{\color{#adadad}꒰  graphics by magicak-princessette on tumblr  ,  layout heavily inspired by gumbawll !‬  (idk how to make layouts on here so im very sorry for using it as a template... ARG!!!!)}}$
+${\textsf{\color{#adadad}꒰  graphics by magicak-princessette on tumblr  ,  layout heavily inspired by gumbawll !}}$
 ${\textsf{\color{#adadad} (idk how to make layouts on here so im very sorry for using it as a template... ARG!!!!)}}$
