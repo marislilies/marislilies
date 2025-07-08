@@ -19,7 +19,7 @@
  <br>
 
  <p align="center">
-   <br> ${\textsf{\color{#edb8ff}more  about  me  in  my  [carrd](https://marislilies.carrd.co/)  !‬}}$
+   <br> ${\textsf{\color{#edb8ff}more  about  me  in  my  carrd  !‬}}$
  <br>
 
 <p align="center"> <img src="https://64.media.tumblr.com/6dd4ef3f226e3beb651d321a2f068d77/1a46b6dc7d8b6eb3-ee/s400x600/bc709a8ef21e4c39f59de19f7e668b5f8a0f1b81.pnj"/>
