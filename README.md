@@ -25,12 +25,13 @@
 
 
 
+
 <p align="center"> 
-    <img src="https://64.media.tumblr.com/4e9db1bc53fffab309a632ceef6c3160/b1368e9ab772aa50-6f/s500x750/37af954143e6d5b0859944a471dfe435ff950b67.pnj"/>
+    <img src="https://64.media.tumblr.com/f3c986e74d76d5332c57831b74e153cf/bd2c07e98ea9bf52-08/s2048x3072/bcd7faa5164f5201e2ee48fd9748b19006344621.pnj"/>
 
 
 
 
  <p align="center">
-   <br> ${\textsf{\color{#e8d1d4}꒰  graphics by cuisinekuga-archive on tumblr ! ! ! ☆〜（ゝ。∂）}}$
+   <br> ${\textsf{\color{#e8d1d4}꒰  graphics by delicaqe on tumblr ! ! ! ☆〜（ゝ。∂）}}$
  <br>
