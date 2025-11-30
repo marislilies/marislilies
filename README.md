@@ -5,7 +5,7 @@
 
 
 <p align="center"> 
-    <img src="https://64.media.tumblr.com/af3b14d56da994946dc057adf1085bab/e3712b1a469982ad-74/s1280x1920/7fe77a3f48e0a5d78f137f8d40ced1377c2ce6bb.pnj"/>
+    <img src="https://64.media.tumblr.com/89547a3284df3d687c6a570c292f85c7/b1368e9ab772aa50-13/s2048x3072/333c1089a48fd38aa06b9079d08cca149873d800.gifv"/>
 
 
 
@@ -22,6 +22,10 @@
    <br> ${\textsf{\color{#f68c92}more  about  me  in  my  carrd  !‬}}$
  <br>
 
+
+
+<p align="center"> 
+    <img src="https://64.media.tumblr.com/7368fb912036808c883a416d575fc3f4/b1368e9ab772aa50-80/s2048x3072/ce0a53745324aeeccc318fe18290109455969b2b.gifv"/>
 
 
 
