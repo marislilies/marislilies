@@ -22,10 +22,9 @@
    <br> ${\textsf{\color{#f68c92}more  about  me  in  my  carrd  !‬}}$
  <br>
 
-<p align="center"> <img src="https://64.media.tumblr.com/1acf347d61fd35c3edcf38317c54fad3/e3712b1a469982ad-ff/s500x750/ae30598958179adf870ab71e642ef4785625e3c5.pnj"/>
 
 
 
-
-${\textsf{\color{#adadad}꒰  graphics by cuisinekuga-archive on tumblr  ,  layout heavily inspired by gumbawll !}}$
-${\textsf{\color{#adadad} (idk how to make layouts on here so im very sorry for using it as a template... ARG!!!!)}}$
+ <p align="center">
+   <br> ${\textsf{\color{#fdbfbd}꒰  graphics by cuisinekuga-archive on tumblr ! ! ! ☆〜（ゝ。∂）}}$
+ <br>
